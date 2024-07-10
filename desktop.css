@@ -1,0 +1,13 @@
+.PSPDFKit-Toolbar {
+  background: red !important;
+}
+
+:host, :root {
+    --PSPDFKit-Tree-view-icon-fill: var(--color-coolGrey850);
+    --PSPDFKit-Tree-view-icon-color: var(--color-coolGrey850);
+    --PSPDFKit-Tree-view-text-color: var(--color-coolGrey850);
+    --PSPDFKit-Tree-view-hover-backgroundColor: var(--color-coolGrey37);
+    --PSPDFKit-Tree-view-selected-backgroundColor: var(--color-coolGrey50);
+    --PSPDFKit-Tree-view-item-outline: var(--color-blue600);
+    --PSPDFKit-Tree-view-disabled-icon-color: var(--color-white);
+}
